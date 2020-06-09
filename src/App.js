@@ -9,7 +9,8 @@ function App() {
     const dispatch = useDispatch();
     return (
         <div className="App">
-            <h1>Counter {counter}</h1>
+            <h1>Redux example</h1>
+            <h2>Counter {counter}</h2>
             <button
                 onClick={() => {
                     dispatch(increment())
