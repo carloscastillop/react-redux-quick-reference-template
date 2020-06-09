@@ -1,5 +1,6 @@
 # Easy React Redux tutorial
-For reference
+You can see an example here:
+[https://carloscastillop.github.io/react-redux-quick-reference-template/](https://carloscastillop.github.io/react-redux-quick-reference-template/)
 
 ## Available Scripts
 
