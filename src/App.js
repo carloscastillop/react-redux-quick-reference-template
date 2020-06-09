@@ -9,7 +9,7 @@ function App() {
     const dispatch = useDispatch();
     return (
         <div className="App">
-            <h1>Redux example</h1>
+            <h1>Redux example <small>V1.0</small></h1>
             <h2>Counter {counter}</h2>
             <button
                 onClick={() => {
